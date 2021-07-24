@@ -1,1 +1,1 @@
-wbb:gunicorn __init__:app
+wbb: gunicorn __init__:app
