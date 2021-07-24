@@ -1,0 +1,1 @@
+wsb:gunicorn __init__:app
